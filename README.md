@@ -1,1 +1,1 @@
-# New-repo will have notes
+# New-repo will have notes for GCP
