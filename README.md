@@ -1,1 +1,1 @@
-# New-repo will have 
+# New-repo will have notes
